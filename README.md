@@ -8,7 +8,7 @@ I wanted to experiment with TouchDesigner to make an immersive experience— cre
 The surface can be interacted with via mouse input, or touch screen input.
 # Installation
 For an installation, the goal would be having the media interacted with via touchscreens; it would fill out every wall space possible, so the surface can be interacted with anywhere in the room. This project should also be experienced in a dark room, with blue and yellow lights moving around the walls and ceiling. There would be speakers in the center of the room, covered in pool and beach items, playing the selected song.
-# Credits and External Assets
+# Credits, Materials, and External Assets
 - **Created by:** Suzie Maniak
 - **Coding & Program:** TouchDesigner
 - **Audio:** Poolside (Instrumental) by Maybe (from Epidemic Sound)
