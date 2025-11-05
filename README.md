@@ -11,6 +11,7 @@ The goal would be having the media interacted with via touchscreens; it would fi
 # Credits, Materials, and External Assets
 - **Created by:** Suzie Maniak
 - **Coding & Program:** TouchDesigner
+- **Tutorial Followed:** [Interactive Fluid-like Movement](https://youtu.be/3gXP84ypD5g?si=HRWzrjXZRRIxCZ_P)
 - **Audio:** Poolside (Instrumental) by Maybe (from Epidemic Sound)
 # Future Plan
 In the future, I plan to add some water sound effects for when users interact with the surface, to make it more realistic and fun. I will also add background visuals, such as jellyfish or coral, to make the space feel more like an underwater experience.
