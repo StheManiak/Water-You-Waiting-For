@@ -6,7 +6,7 @@ Interact with the water, and let it guide your curiosity!
 I wanted to experiment with TouchDesigner to make an immersive experience— creating interactive visuals and using calming audio to evoke curiosity and serenity from users. This project promotes interest, as the blue screen seems boring at first, but once interacted with, it drives you to guide yourself through the water-like surface.
 # Instructions
 The surface can be interacted with via mouse input, or touch screen input.
-# For A Gallery Installation
+# For a Gallery Installation
 The goal would be having the media interacted with via touchscreens; it would fill out every wall space possible, so the surface can be interacted with anywhere in the room. This project should also be experienced in a dark room, with blue and yellow lights moving around the walls and ceiling. There would be speakers in the center of the room, covered in pool and beach items, playing the selected song.
 # Credits, Materials, and External Assets
 - **Created by:** Suzie Maniak
