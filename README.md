@@ -11,4 +11,4 @@ The surface can be interacted with via mouse or touch screen input, but for an i
 - **Coding & Program:** TouchDesigner
 - **Audio:** Poolside (Instrumental) by Maybe (from Epidemic Sound)
 # Future Plan
-In the future, I plan to add some water sound effects for when users interact with the surface, to make it more realistic and fun. I will also add background visuals, such as jellyfish or coral, to make the space feel more like an aquarium.
+In the future, I plan to add some water sound effects for when users interact with the surface, to make it more realistic and fun. I will also add background visuals, such as jellyfish or coral, to make the space feel more like an underwater experience.
